@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "サンライズ",
+  "base_artist": "Norah Jones",
+  "createdAt": "2026-02-21T09:22:19.702373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンライズ",
+      "artist": "BENNIE K",
+      "has_synced": true,
+      "path": "select/01_サンライズ_BENNIE_K.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プラチナ・サンライズ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_プラチナ・サンライズ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プラチナ・サンライズ",
+      "artist": "Wake Up, Girls!",
+      "has_synced": true,
+      "path": "select/03_プラチナ・サンライズ_Wake_Up,_Girls!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サンライズ",
+      "artist": "Spectrum",
+      "has_synced": false,
+      "path": "select/04_サンライズ_Spectrum.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サンライズ",
+      "artist": "BENNIE K",
+      "has_synced": false,
+      "path": "select/05_サンライズ_BENNIE_K.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "テキ－ラ・サンライズ (Live On MTV, 1994)",
+      "artist": "イーグルス",
+      "has_synced": true,
+      "path": "select/06_テキ-ラ・サンライズ_(Live_On_MTV,_1994)_イーグルス.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サンライズ　Sunrise",
+      "artist": "SPECTRUM",
+      "has_synced": true,
+      "path": "select/07_サンライズ_Sunrise_SPECTRUM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サンライズ - Sunrise",
+      "artist": "BENNIE K",
+      "has_synced": true,
+      "path": "select/08_サンライズ_-_Sunrise_BENNIE_K.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サンライズ",
+      "artist": "SPECTRUM",
+      "has_synced": true,
+      "path": "select/09_サンライズ_SPECTRUM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunrise",
+      "artist": "Norah Jones",
+      "has_synced": false,
+      "path": "select/pl_01_Sunrise_Norah_Jones.txt"
+    }
+  ]
+}
